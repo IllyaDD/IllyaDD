@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 My name is Illya  
-
+I'm developer from Ukraine
 **Connect with me:**  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/illyadd)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:illya.d.donchenko@gmail.com)  

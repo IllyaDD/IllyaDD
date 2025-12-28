@@ -8,11 +8,6 @@ I'm developer from Ukraine
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:illya.d.donchenko@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/IllyaDD)  
 
----
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IllyaDD&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact&force_update=true)
-
 ### Tools & Technologies
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
@@ -30,3 +25,7 @@ I'm developer from Ukraine
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="25" height="25" />
 </p>
+
+<div align="center">
+  <img src="./Sun.gif" width="500"/>
+</div>

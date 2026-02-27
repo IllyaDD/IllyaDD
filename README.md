@@ -27,7 +27,3 @@ I'm developer from Ukraine
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch-linux" width="25" height="25" />
 </p>
-
-<div align="center">
-  <img src="./Sun.gif" width="500"/>
-</div>

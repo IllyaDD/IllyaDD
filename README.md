@@ -1,7 +1,8 @@
 # Hi there 👋
 
 My name is Illya
-I'm developer from Ukraine
+
+I'm developer from Ukraine🇺🇦
 
 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lllya-donchenko-059b703a6/)

@@ -14,9 +14,10 @@ I'm developer from Ukraine🇺🇦
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IllyaDD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Illya's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllyaDD&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllyaDD&theme=tokyonight" alt="Illya's GitHub stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllyaDD&theme=tokyonight" alt="Top Langs" height="160" />
 </p>
+
 
 ---
 

@@ -29,7 +29,7 @@ I'm developer from Ukraine🇺🇦
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D4?style=flat&logo=swift&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=flat&logo=swift&logoColor=white)
+
 
 ### 🗄️ Databases & Queues
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -37,6 +37,7 @@ I'm developer from Ukraine🇺🇦
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=flat&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=sql&logoColor=white)
 
 ### 🤖 AI & Computer Vision

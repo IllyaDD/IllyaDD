@@ -14,9 +14,9 @@ I'm developer from Ukraine🇺🇦
 
 ### 📊 GitHub Stats
 
-![Illya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IllyaDD&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Illya's GitHub stats](https://github-stats-extended.vercel.app/api?username=IllyaDD&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IllyaDD&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=IllyaDD&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

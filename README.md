@@ -14,8 +14,8 @@ I'm developer from Ukraine🇺🇦
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IllyaDD&theme=tokyonight" alt="Illya's GitHub stats" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IllyaDD&theme=tokyonight" alt="Top Langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IllyaDD&show_icons=true&theme=tokyonight" alt="Illya's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllyaDD&layout=compact&theme=tokyonight" alt="Top Langs" height="160" />
 </p>
 
 
@@ -55,6 +55,7 @@ I'm developer from Ukraine🇺🇦
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### 💻 Operating Systems & IDEs
 ![macOS (Main)](https://img.shields.io/badge/macOS_(Main)-000000?style=flat&logo=apple&logoColor=white)
